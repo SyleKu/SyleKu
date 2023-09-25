@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # ⚡About Me
 
-Interested in computer vision, low level, machine learning, deep learning, reverse engineering, optimization, compilers and code generation
+I am a software engineer and I am interested in computer vision, low level, machine learning, deep learning, parallel computing, reverse engineering, optimization, compilers and code generation.
 
 Besides programming, I love to play video games 🎮!
 
