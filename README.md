@@ -28,7 +28,7 @@ Currently I am working on a computer vision project. Stay stuned!
 
 # ⚗️ Projects
 
-- [QuickSortAVX](https://github.com/SyleKu/QuickSortAVX): Quicksort in-place algorithm with AVX written in C++
+- [QuickSortAVX](https://github.com/SyleKu/QuickSortAVX): Quicksort in-place algorithm with AVX2 written in C++
 
 More projects incoming! Stay tuned!!
 
