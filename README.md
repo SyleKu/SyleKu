@@ -32,7 +32,3 @@ Currently I am working on a computer vision project. Stay stuned!
 
 More projects incoming! Stay tuned!!
 
-
-# ✨ Github stats
-
-[![SyleKu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyleKu&theme=tokyonight)](https://github.com/syleku/github-readme-stats?theme=tokyonight)
