@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 # ⚡About Me
 
-I am a software engineer and I am interested in computer vision, low level, machine learning, deep learning, reinforcement learning, parallel computing, reverse engineering, optimization, compilers and code generation.
+Software engineer interested in AI, computer vision, and high-performance systems.
 
-Besides programming, I love to play video games 🎮!
+My interests include machine learning, reinforcement learning, parallel computing, low-level programming, reverse engineering, and compilers.
+
+Besides programming, I enjoy playing video games 🎮.
 
 # 🔭 I’m currently working on
 
