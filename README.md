@@ -32,3 +32,7 @@ Currently I am working on a computer vision project. Stay stuned!
 
 More projects incoming! Stay tuned!!
 
+# 🔍 Studying Open-Source Code
+
+Some repositories on this profile are forks of interesting open-source projects that I study to better understand low-level systems, performance optimizations, and reverse engineering tools.
+
