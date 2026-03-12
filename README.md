@@ -26,7 +26,8 @@ Besides programming, I enjoy playing video games 🎮.
 
 # 🔭 I’m currently working on
 
-Currently working on a computer vision project as part of my preparation for further studies in AI and data science. More details coming soon.
+A small computer vision project and some machine learning experiments.
+The repository will be published once the first results are ready.
 
 # ⚗️ Projects
 
