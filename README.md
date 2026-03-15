@@ -31,6 +31,7 @@ The repository will be published once the first results are ready.
 
 # ⚗️ Projects
 
+- [Tetris-RL](https://github.com/SyleKu/tetris-rl): Reinforcement learning agent for Tetris using a custom Gymnasium environment (DQN, PPO, heuristic baseline)
 - [QuickSortAVX](https://github.com/SyleKu/QuickSortAVX): Quicksort in-place algorithm with AVX2 written in C++
 
 More projects incoming! Stay tuned!!
