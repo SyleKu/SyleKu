@@ -20,19 +20,31 @@ Here are some ideas to get you started:
 
 Software engineer interested in AI, computer vision, and high-performance systems.
 
-My interests include machine learning, reinforcement learning, parallel computing, low-level programming, reverse engineering, and compilers.
+My interests include:
+
+- Machine Learning
+- Reinforcement Learning
+- Parallel Computing
+- Low-Level Programming
+- Reverse EEngineering
+- Compilers and Code Generation
+
+Primary languages: C++, Python, C#
 
 Besides programming, I enjoy playing video games 🎮.
 
 # 🔭 I’m currently working on
 
-A small computer vision project and some machine learning experiments.
-The repository will be published once the first results are ready.
+Currently developing a reinforcement learning project involving a custom Tetris environment.
 
-# ⚗️ Projects
+# ⚗️ Selected Projects
 
-- [Tetris-RL](https://github.com/SyleKu/tetris-rl): Reinforcement learning agent for Tetris using a custom Gymnasium environment (DQN, PPO, heuristic baseline).
-- [QuickSortAVX](https://github.com/SyleKu/QuickSortAVX): AVX2-optimized in-place Quicksort implementation in C++ exploring SIMD-based partitioning and performance benchmarking.
+- [Tetris-RL](https://github.com/SyleKu/tetris-rl)
+Reinforcement learning agent for Tetris using a custom Gymnasium environment.
+Includes heuristic baseline and RL agents (DQN, PPO) to study reward shaping and state representations.
+
+- [QuickSortAVX](https://github.com/SyleKu/QuickSortAVX)
+AVX2-optimized in-place Quicksort implementation in C++ exploring SIMD-based partitioning and performance benchmarking.
 
 More projects incoming! Stay tuned!!
 
