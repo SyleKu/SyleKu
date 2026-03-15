@@ -33,7 +33,7 @@ Primary languages: C++, Python, C#
 
 Besides programming, I enjoy playing video games 🎮.
 
-# 🔭 I’m currently working on
+# 🧪 I’m currently working on
 
 Currently developing a reinforcement learning project involving a custom Tetris environment.
 
