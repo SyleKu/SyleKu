@@ -26,7 +26,7 @@ My interests include:
 - Reinforcement Learning
 - Parallel Computing
 - Low-Level Programming
-- Reverse EEngineering
+- Reverse Engineering
 - Compilers and Code Generation
 
 Primary languages: C++, Python, C#
