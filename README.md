@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ⚡About Me
+# About Me
 
 Software engineer interested in AI, computer vision, and high-performance systems.
 
@@ -33,11 +33,11 @@ Primary languages: C++, Python, C#
 
 Besides programming, I enjoy playing video games 🎮.
 
-# 🧪 I’m currently working on
+# I’m currently working on
 
 Currently developing a reinforcement learning project involving a custom Tetris environment.
 
-# ⚗️ Selected Projects
+# Selected Projects
 
 - [Tetris-RL](https://github.com/SyleKu/tetris-rl)
 Reinforcement learning agent for Tetris using a custom Gymnasium environment.
@@ -48,7 +48,7 @@ AVX2-optimized in-place Quicksort implementation in C++ exploring SIMD-based par
 
 More projects incoming! Stay tuned!!
 
-# 🔍 Studying Open-Source Code
+# Studying Open-Source Code
 
 Some repositories on this profile are forks of interesting open-source projects that I study to better understand low-level systems, performance optimizations, and reverse engineering tools.
 
