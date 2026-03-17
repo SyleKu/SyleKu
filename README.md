@@ -46,8 +46,6 @@ Includes heuristic baseline and RL agents (DQN, PPO) to study reward shaping and
 - [QuickSortAVX](https://github.com/SyleKu/QuickSortAVX)
 AVX2-optimized in-place Quicksort implementation in C++ exploring SIMD-based partitioning and performance benchmarking.
 
-More projects incoming! Stay tuned!!
-
 # Studying Open-Source Code
 
 Some repositories on this profile are forks of interesting open-source projects that I study to better understand low-level systems, performance optimizations, and reverse engineering tools.
