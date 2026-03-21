@@ -31,7 +31,7 @@ My interests include:
 
 Primary languages: C++, Python, C#
 
-Besides programming, I enjoy playing video games 🎮.
+Besides programming, I enjoy playing video games.
 
 # I’m currently working on
 
