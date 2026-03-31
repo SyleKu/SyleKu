@@ -36,8 +36,12 @@ Besides programming, I enjoy playing video games.
 # I’m currently working on
 
 Currently developing a reinforcement learning project involving a custom Tetris environment.
+Additionally, building a mini deep learning framework from scratch in C++, focusing on tensor abstractions, reverse-mode automatic differentiation, and performance-oriented implementations.
 
 # Selected Projects
+
+-[mini-dl-framework](https://github.com/SyleKu/mini-dl-framework)
+A small deep learning framework built from scratch in C++ with tensor operations, reverse-mode autodiff, neural network layers, and optimizers.
 
 - [Tetris-RL](https://github.com/SyleKu/tetris-rl)
 Reinforcement learning agent for Tetris using a custom Gymnasium environment.
