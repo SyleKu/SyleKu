@@ -41,7 +41,7 @@ Additionally, building a mini deep learning framework from scratch in C++, focus
 # Selected Projects
 
 - [mini-dl-framework](https://github.com/SyleKu/mini-dl-framework)
-A small deep learning framework built from scratch in C++ with tensor operations, reverse-mode autodiff, neural network layers, and optimizers.
+A minimal deep learning framework built from scratch in modern C++, featuring a custom tensor implementation, reverse-mode autograd engine, and neural network training pipelines.
 
 - [Tetris-RL](https://github.com/SyleKu/tetris-rl)
 Reinforcement learning agent for Tetris using a custom Gymnasium environment.
