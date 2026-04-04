@@ -36,7 +36,7 @@ Besides programming, I enjoy playing video games.
 # I’m currently working on
 
 Currently developing a reinforcement learning project involving a custom Tetris environment.
-Additionally, building a mini deep learning framework from scratch in C++, focusing on tensor abstractions, reverse-mode automatic differentiation, and performance-oriented implementations.
+Additionally, I am building a mini deep learning framework in C++ from scratch, including a custom autograd engine and neural network training pipelines.
 
 # Selected Projects
 
