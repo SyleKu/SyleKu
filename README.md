@@ -45,7 +45,7 @@ I enjoy combining theoretical concepts with low-level implementation to build sy
 # Selected Projects
 
 - [mini-dl-framework](https://github.com/SyleKu/mini-dl-framework)
-A minimal deep learning framework built from scratch in modern C++, featuring a custom tensor implementation, reverse-mode autograd engine, neural network modules, and training pipelines for XOR and MNIST.
+Built from scratch in modern C++ including tensor operations, reverse-mode autograd engine, neural network modules, and training pipelines for XOR and MNIST classification.
 Includes performance experiments with SIMD-optimized matrix multiplication and runtime AVX2 detection.
 
 - [Tetris-RL](https://github.com/SyleKu/tetris-rl)
