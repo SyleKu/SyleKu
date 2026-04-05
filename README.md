@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 # About Me
 
-Software engineer interested in AI, computer vision, and high-performance systems.
+Software engineer focused on machine learning, reinforcement learning, computer vision, and high-performance systems.
+
+I build ML systems from scratch in C++, including custom autograd engines, neural network training pipelines, and performance-optimized tensor operations.
 
 My interests include:
 
