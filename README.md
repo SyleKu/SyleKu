@@ -39,12 +39,16 @@ Besides programming, I enjoy playing video games.
 
 Currently, I am working on:
 
+- Building an end-to-end machine learning system for energy load forecasting (data pipeline, feature engineering, model training, API, dashboard)
 - A custom deep learning framework in C++ (including autograd and MNIST training)
 - A reinforcement learning project using a custom Tetris environemnt
 
 I enjoy combining theoretical concepts with low-level implementation to build systems from scratch.
 
 # Selected Projects
+
+- [Smart Demand Forecasting](https://github.com/SyleKu/smart-demand-forecasting)
+End-to-end machine learning system for energy load forecasting, including data preprocessing, feature engineering, model training, API deployment, and interactive visualization.
 
 - [mini-dl-framework](https://github.com/SyleKu/mini-dl-framework)
 Built from scratch in modern C++ including tensor operations, reverse-mode autograd engine, neural network modules, and training pipelines for XOR and MNIST classification.
