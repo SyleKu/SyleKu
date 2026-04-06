@@ -39,16 +39,17 @@ Besides programming, I enjoy playing video games.
 
 Currently, I am working on:
 
-- Building an end-to-end machine learning system for energy load forecasting (data pipeline, feature engineering, model training, API deployment (FastAPI), and an interactive Streamlit dashboard)
+- Working on a from-scratch implementation of Proximal Policy Optimization (PPO) with a focus on reproducibility, training stability, and benchmarking.
 - A custom deep learning framework in C++ (including autograd and MNIST training)
 - A reinforcement learning project using a custom Tetris environemnt
+- Building an end-to-end machine learning system for energy load forecasting (data pipeline, feature engineering, model training, API deployment (FastAPI), and an interactive Streamlit dashboard)
 
 I enjoy combining theoretical concepts with low-level implementation to build systems from scratch.
 
 # Selected Projects
 
-- [Smart Demand Forecasting](https://github.com/SyleKu/smart-demand-forecasting)
-End-to-end machine learning system for energy load forecasting, including data preprocessing, feature engineering, model training, API deployment, and interactive visualization.
+-[PPO from Scratch](https://github.com/SyleKu/ppo-from-scratch)
+A clean, research-oriented implementation of Proximal Policy Optimization in PyTorch, with reproducible experiments, training analysis, and benchmark comparisons.
 
 - [mini-dl-framework](https://github.com/SyleKu/mini-dl-framework)
 Built from scratch in modern C++ including tensor operations, reverse-mode autograd engine, neural network modules, and training pipelines for XOR and MNIST classification.
@@ -57,6 +58,9 @@ Includes performance experiments with SIMD-optimized matrix multiplication and r
 - [Tetris-RL](https://github.com/SyleKu/tetris-rl)
 Reinforcement learning agent for Tetris using a custom Gymnasium environment.
 Includes heuristic baseline and RL agents (DQN, PPO) to study reward shaping and state representations.
+
+- [Smart Demand Forecasting](https://github.com/SyleKu/smart-demand-forecasting)
+End-to-end machine learning system for energy load forecasting, including data preprocessing, feature engineering, model training, API deployment, and interactive visualization.
 
 - [QuickSortAVX](https://github.com/SyleKu/QuickSortAVX)
 AVX2-optimized in-place Quicksort implementation in C++ exploring SIMD-based partitioning and performance benchmarking.
