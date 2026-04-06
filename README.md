@@ -48,7 +48,7 @@ I enjoy combining theoretical concepts with low-level implementation to build sy
 
 # Selected Projects
 
--[PPO from Scratch](https://github.com/SyleKu/ppo-from-scratch)
+- [PPO from Scratch](https://github.com/SyleKu/ppo-from-scratch)
 A clean, research-oriented implementation of Proximal Policy Optimization in PyTorch, with reproducible experiments, training analysis, and benchmark comparisons.
 
 - [mini-dl-framework](https://github.com/SyleKu/mini-dl-framework)
