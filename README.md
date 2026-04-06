@@ -39,7 +39,7 @@ Besides programming, I enjoy playing video games.
 
 Currently, I am working on:
 
-- Building an end-to-end machine learning system for energy load forecasting (data pipeline, feature engineering, model training, API, dashboard)
+- Building an end-to-end machine learning system for energy load forecasting (data pipeline, feature engineering, model training, API deployment (FastAPI), and an interactive Streamlit dashboard)
 - A custom deep learning framework in C++ (including autograd and MNIST training)
 - A reinforcement learning project using a custom Tetris environemnt
 
