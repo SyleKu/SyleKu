@@ -39,6 +39,7 @@ Besides programming, I enjoy playing video games.
 
 Currently, I am working on:
 
+- Reproducible Reinforcement Learning Benchmark (PPO vs SAC vs TD3)
 - Working on a PPO (Proximal Policy Optimization) implementation from scratch in PyTorch, including benchmarking against Stable-Baselines3 and exploring performance gaps in reinforcement learning.
 - A custom deep learning framework in C++ (including autograd and MNIST training)
 - A reinforcement learning project using a custom Tetris environemnt
@@ -47,6 +48,9 @@ Currently, I am working on:
 I enjoy combining theoretical concepts with low-level implementation to build systems from scratch.
 
 # Selected Projects
+
+- [rl-reproducibility-study](https://github.com/SyleKu/rl-reproducibility-study)
+Reproducible study comparing PPO, SAC und TD3 across multiple environments
 
 - [PPO from Scratch](https://github.com/SyleKu/ppo-from-scratch)
 Implemented Proximal Policy Optimization (PPO) from scratch using PyTorch, incuding an actor-critic architecture, Generalized Advantage Estimation (GAE), and a full training pipeline with evaluation, logging, and plotting.
