@@ -39,7 +39,7 @@ Besides programming, I enjoy playing video games.
 
 Currently, I am working on:
 
-- Working on a from-scratch implementation of Proximal Policy Optimization (PPO) with a focus on reproducibility, training stability, and benchmarking.
+- Working on a PPO (Proximal Policy Optimization) implementation from scratch in PyTorch, including benchmarking against Stable-Baselines3 and exploring performance gaps in reinforcement learning.
 - A custom deep learning framework in C++ (including autograd and MNIST training)
 - A reinforcement learning project using a custom Tetris environemnt
 - Building an end-to-end machine learning system for energy load forecasting (data pipeline, feature engineering, model training, API deployment (FastAPI), and an interactive Streamlit dashboard)
@@ -49,7 +49,9 @@ I enjoy combining theoretical concepts with low-level implementation to build sy
 # Selected Projects
 
 - [PPO from Scratch](https://github.com/SyleKu/ppo-from-scratch)
-A clean, research-oriented implementation of Proximal Policy Optimization in PyTorch, with reproducible experiments, training analysis, and benchmark comparisons.
+Implemented Proximal Policy Optimization (PPO) from scratch using PyTorch, incuding an actor-critic architecture, Generalized Advantage Estimation (GAE), and a full training pipeline with evaluation, logging, and plotting.
+Successfully reproduced strong baseline performance on CartPole-v1 and benchmarked the implementation against Stable-Baselines3, achieving high rewards and analyzing the performance gap between a custom implementation and a production-grade RL library.
+Focus: Reinforcement Learning, Deep Learning, Experimentation, Benchmarking
 
 - [mini-dl-framework](https://github.com/SyleKu/mini-dl-framework)
 Built from scratch in modern C++ including tensor operations, reverse-mode autograd engine, neural network modules, and training pipelines for XOR and MNIST classification.
